@@ -37,27 +37,21 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-# Nama Project
+# webTutuorial
 
-Deskripsi singkat tentang project ini: apa gunanya, dan siapa penggunanya.
-
-## 🚀 Fitur
-
-- Fitur 1 (contoh: Login/Register)
-- Fitur 2 (contoh: Upload file)
-- Fitur 3 (contoh: Real-time Chat)
+Deskripsi singkat tentang project ini: ini gunanya buat tutorial ke orang aja sih.
 
 ## 🛠️ Teknologi yang Digunakan
 
-- HTML/CSS/JS
+- php/js/tailwind
 - Node.js / Express
-- Laravel / React / Vue (sesuai project kamu)
+- Laravel
 - MySQL / MongoDB
 
 ## 📦 Cara Install (Local Development)
 
 ```bash
-git clone https://github.com/username/nama-project.git
-cd nama-project
+git clone https://github.com/Resyourbae/buatWebTutorial.git
+cd buatWebTutorial
 npm install
 npm run dev
